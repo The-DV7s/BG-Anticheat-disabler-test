@@ -1,2 +1,2 @@
-# BG-Anticheat-disabler-test
-GM Bypassed = 10%
+# Data Type :
+failed
